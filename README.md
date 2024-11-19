@@ -10,6 +10,10 @@ Code repository for various Bisbing Lab projects
 
 -   Here is a change to the README.md file for Michelle to work with
 
+
 -   Deleting Michelle's edit
 
 -   Bryant doing stuff to create a conflict
+
+-   Overwriting Bryant's changes
+
